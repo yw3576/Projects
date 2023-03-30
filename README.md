@@ -14,5 +14,5 @@ Train deep neural networks using PyTorch and TensorFlow on various datasets (Ima
 [Codes](./DL/DL.py)
 
 ### Statitic Learning for Industry Process
-Apply statistical learning techniques like PCA and FDA in Matlab to extract latent features from industry process data (e.g. Tennessee-Eastman benchmark process). This is used for data modeling and fault diagnosis.\
+Apply statistical learning techniques like PCA and FDA in Matlab to extract latent features from industry process data (e.g. Tennessee-Eastman benchmark process). This is used for data modeling and fault diagnosis.
 
