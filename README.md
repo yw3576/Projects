@@ -1,15 +1,15 @@
 # Projects
-This project contains the 
+I summarize my projects during my Ph.D.
 
-## Deep Reinforcement Learning for Autonomous Vehicle Control
-For this project, we train a deep reinforcement learning (DRL) agent by DDPG (Deep Deterministic Policy Gradient) algorithm to control the acceleration of an AV. This AV can help relieve the traffic congestion in modern traffic system. 
+## Deep Reinforcement Learning (DRL) for Autonomous Vehicle (AV) Control
+Train a DRL agent with the DDPG algorithm in Python to control the AV's acceleration, potentially reducing traffic congestion.
 
-## Traffic Simulation for Autonomous Vehicles in SUMO (Simulation of Urban MObility)
-Test the AV with the trained controller in the traffic simulator SUMO. SUMO is connected with Python by the API, TraCI, for information transfer, data acquisition and analysis.
+## Traffic Simulation for AVs in SUMO (Simulation of Urban MObility)
+Test the AV with the trained controller in the traffic simulator SUMO, which is connected to Python via the TraCI API for data transfer, acquisition, and analysis.
 
 ## Deep Learning for Object Recognition
-Train Deep neural networks on different datasets (Imagenet, VGGFace2, GTSRB, etc.) with different network architectures (Alexnet, DenseNet, ResNet, etc.) by Pytorch and Tensorflow.
+Train deep neural networks using PyTorch and TensorFlow on various datasets (Imagenet, VGGFace2, GTSRB) and network architectures (Alexnet, DenseNet, ResNet).
 
 ## Statitic Learning for Industry Process
-Perform statistic learning techniques in Matlab, e.g., PCA (Principal Component Analysis), FDA (Fisher Discriminant Analysis), to extract the latent features of industry process data, e.g. Tennessee-Eastman benchmark process, for data modeling and fault diagnosis.
+Apply statistical learning techniques like PCA and FDA in Matlab to extract latent features from industry process data (e.g. Tennessee-Eastman benchmark process). This is used for data modeling and fault diagnosis.
 
