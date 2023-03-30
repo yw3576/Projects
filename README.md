@@ -2,7 +2,7 @@
 I summarize my projects during my Ph.D.
 
 ### Deep Reinforcement Learning (DRL) for Autonomous Vehicle (AV) Control
-Train a DRL agent with the DDPG algorithm in Python to control the AV's acceleration, potentially reducing traffic congestion.
+'Train a DRL agent with the DDPG algorithm in Python to control the AV's acceleration, potentially reducing traffic congestion.'
 
 ### Traffic Simulation for AVs in SUMO (Simulation of Urban MObility)
 Test the AV with the trained controller in the traffic simulator SUMO, which is connected to Python via the TraCI API for data transfer, acquisition, and analysis.
