@@ -3,7 +3,7 @@
 
 ### Deep Reinforcement Learning (DRL) for Autonomous Vehicle (AV) Control
 Train a DRL agent with the DDPG algorithm in Python to control the AV's acceleration, potentially reducing traffic congestion.\
-Codes are provided in 
+[Codes are provided in](main/DRL/DRL.ipynb)
 `DRL/DRL.ipynb`
 
 ### Traffic Simulation for AVs in SUMO (Simulation of Urban MObility)
